@@ -4,7 +4,7 @@ Use this project template to organize your projects. Inspired by work of many ot
 - [Carl Boettiger](http://www.carlboettiger.info/2012/05/06/research-workflow.html)
 - [William Stafford Noble´s guide on project organization](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 
-To start using this template. Clone this repository, change repository name and start doing great science
+To start using this template download the repository from [here](https://www.dropbox.com/sh/8aurm6lbg8xc76r/AABdrJEGX0Ls08EFG0nivfRga?dl=0), change repository name and start doing great science
 
 Some tips and recommendations.
 
